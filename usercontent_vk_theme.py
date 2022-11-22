@@ -61,23 +61,23 @@ def generate_vk_theme(accent_hex, accent_darker_hex=None):
         --text_link_highlighted_background: var(--accent-darker) !important;
         --dynamic_blue: var(--accent-darker) !important;
         
-        --gray_20: #7c7c7c;
-        --gray_40: #7a7a7a;
-        --gray_70: #2a2a2a;
-        --gray_100_alpha60: rgba(168, 170, 172, 0.60);
-        --gray_700: #2a2a2a;
-        --gray_700_alpha60: rgba(63, 63, 63, 0.60);
-        --gray_750: #242424;
-        --gray_800: #191919;
-        --gray_800_alpha72: rgba(38, 38, 38, 0.72);
-        --gray_800_alpha88: rgba(38, 38, 38, 0.88);
-        --gray_850: #141414;
-        --gray_900: #111111;
-        --gray_900_alpha16: rgba(25, 25, 25, 0.16);
-        --gray_900_alpha72: rgba(25, 25, 25, 0.72);
-        --gray_900_alpha88: rgba(25, 25, 25, 0.88);
-        --gray_940: #0a0a0a;
-        --gray_960: #050505;
+        --gray_20: #7c7c7c !important;
+        --gray_40: #7a7a7a !important;
+        --gray_70: #2a2a2a !important;
+        --gray_100_alpha60: rgba(168, 170, 172, 0.60) !important;
+        --gray_700: #2a2a2a !important;
+        --gray_700_alpha60: rgba(63, 63, 63, 0.60) !important;
+        --gray_750: #242424 !important;
+        --gray_800: #191919 !important;
+        --gray_800_alpha72: rgba(38, 38, 38, 0.72) !important;
+        --gray_800_alpha88: rgba(38, 38, 38, 0.88) !important;
+        --gray_850: #141414 !important;
+        --gray_900: #111111 !important;
+        --gray_900_alpha16: rgba(25, 25, 25, 0.16) !important;
+        --gray_900_alpha72: rgba(25, 25, 25, 0.72) !important;
+        --gray_900_alpha88: rgba(25, 25, 25, 0.88) !important;
+        --gray_940: #0a0a0a !important;
+        --gray_960: #050505 !important;
     }}
 
     /*   online icons   */
